@@ -470,3 +470,14 @@ tr:nth-child(1) {
 
  }
 
+.divgallery{width: 70%;
+    padding: 20px 20px 20px 80px;
+}
+ 
+.videogallery{width: 100%;
+    opacity: 100%;
+    padding: 0px 50px 50px 50px;}
+
+.divgallery2{width: 100%;
+    padding: 0px 0px 30px 30px}
+
